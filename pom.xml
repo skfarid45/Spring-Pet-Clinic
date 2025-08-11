@@ -440,7 +440,6 @@
             </plugin>
           </plugins>
         </pluginManagement>
-        <finalName>ROOT</finalName>
       </build>
     </profile>
   </profiles>
